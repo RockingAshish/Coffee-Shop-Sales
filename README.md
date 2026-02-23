@@ -174,10 +174,10 @@ This project was done entirely in **Microsoft Excel**. To reproduce the analysis
 
 ## 👤 Author
 
-**[Your Name]**
+Ashish Sharma
 Aspiring Data Analyst | First Data Analysis Project
-📧 youremail@example.com
-🔗 [LinkedIn Profile](https://linkedin.com)
+📧 itsashishsharma1814@gmail.com
+🔗 [LinkedIn Profile](www.linkedin.com/in/ashish-sharma-0146481b6)
 
 ---
 
