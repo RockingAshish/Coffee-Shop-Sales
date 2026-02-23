@@ -172,10 +172,10 @@ This project was done entirely in **Microsoft Excel**. To reproduce the analysis
 
 ---
 
-## 👤 Author
+## 👤 Connect With Me
 
 Ashish Sharma
-Aspiring Data Analyst | First Data Analysis Project
+Aspiring Data Analyst | 2nd Data Analysis Project
 📧 itsashishsharma1814@gmail.com
 🔗 [LinkedIn Profile](www.linkedin.com/in/ashish-sharma-0146481b6)
 
