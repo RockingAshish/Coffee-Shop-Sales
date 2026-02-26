@@ -22,12 +22,11 @@ The goal was to turn raw transaction data into clear, actionable insights.
 ## 📂 Dataset
 
 | Detail | Info |
-|---|---|
-| **Source** | Internal retail transaction records |
+|--------|------|
+| **Source** | [Maven Analytics – Coffee Shop Sales](https://mavenanalytics.io/data-playground/coffee-shop-sales) |
 | **Time Period** | January 2023 – June 2023 |
 | **Number of Rows** | 1,49,116 transactions |
 | **Number of Columns** | 18 columns |
-
 **Key columns used in the analysis:**
 
 | Column | Description |
